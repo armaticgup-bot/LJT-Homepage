@@ -30,13 +30,13 @@ Publications
 - [**On the Perception Bottleneck of VLMs for Chart Understanding**]({{ '/publication/2025-perception-bottleneck-vlms-chart' | relative_url }})  
   Junteng Liu, Weihao Zeng, Xiwen Zhang, Yijun Wang, Zifei Shan, Junxian He. *arXiv*, 2025.
 - [**On the Universal Truthfulness Hyperplane Inside LLMs**]({{ '/publication/2024-universal-truthfulness-hyperplane' | relative_url }})  
-  Junteng Liu, Shiqi Chen, Yu Cheng, Junxian He. *EMNLP 2024*, 2024.
+  Junteng Liu, Shiqi Chen, Yu Cheng, Junxian He. *EMNLP 2024*.
 - [**In-Context Sharpness as Alerts: An Inner Representation Perspective for Hallucination Mitigation**]({{ '/publication/2024-in-context-sharpness-alerts' | relative_url }})  
-  Shiqi Chen, Miao Xiong, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He. *ICML 2024*, 2024.
+  Shiqi Chen, Miao Xiong, Junteng Liu, Zhengxuan Wu, Teng Xiao, Siyang Gao, Junxian He. *ICML 2024*.
 - [**C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foundation Models**]({{ '/publication/2023-c-eval' | relative_url }})  
-  Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He. *NeurIPS 2023*, 2023.
+  Yuzhen Huang, Yuzhuo Bai, Zhihao Zhu, Junlei Zhang, Jinghan Zhang, Tangjun Su, Junteng Liu, Chuancheng Lv, Yikai Zhang, Jiayi Lei, Yao Fu, Maosong Sun, Junxian He. *NeurIPS 2023*.
 - [**Composing Parameter-Efficient Modules with Arithmetic Operations**]({{ '/publication/2023-composing-parameter-efficient-modules' | relative_url }})  
-  Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He. *NeurIPS 2023*, 2023.
+  Jinghan Zhang, Shiqi Chen, Junteng Liu, Junxian He. *NeurIPS 2023*.
 
 Research Interests
 ======
